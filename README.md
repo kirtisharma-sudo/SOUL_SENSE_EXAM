@@ -378,6 +378,23 @@ We welcome contributions! Please see our [Contributing Guide](docs/CONTRIBUTING.
 6. Push to the branch: `git push origin feature/amazing-feature`
 7. Open a Pull Request
 
+## 🌱 For First-Time Contributors
+
+Welcome! If you’re new to open source, this project is happy to have you.
+
+Here are a few recommended ways to get started:
+- Look for issues labeled `good first issue` or `documentation`
+- Start with README or docs improvements
+- Ask questions by opening an issue — we’re friendly!
+
+### Suggested First Contributions
+- Improve documentation or fix typos
+- Add screenshots or diagrams
+- Improve setup instructions
+- Refactor comments or variable names (small scope)
+
+If you’re unsure where to begin, open an issue and we’ll guide you 😊
+
 ### Code Standards
 
 - **PEP 8** compliant Python code
